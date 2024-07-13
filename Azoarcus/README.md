@@ -3,7 +3,7 @@ The `Azoarcus` folder refers to the complete proteomes (translated genome CDSs) 
 https://doi.org/10.3390/genes12010071
 
 ## Contents:
-- `metadata_Azoarcus.csv` - Sequence metadata
+- `metadata_Azoarcus.csv` - simple sequence metadata
 - `seqs/` - Complete proteome (amino acids)
 
 For more information:
