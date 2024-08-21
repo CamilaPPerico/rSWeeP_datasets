@@ -1,12 +1,8 @@
-# Azoarcus datasets
-The `Azoarcus` folder refers to the complete proteomes (translated genome CDSs) of the bacteria from the study by Raittz and collaborators (2021):
-https://doi.org/10.3390/genes12010071
+## BacteriaCORE dataset
+The `BacteriaCORE` folder refers to a collection of protein FASTAS containing a "core" of major proteins from some Bacteria obtained from NCBI's RefSeq.
 
 ## Contents:
-- `metadata_Azoarcus.csv` - simple sequence metadata
-- `seqs/` - Complete proteome (amino acids)
+- `metadata_bacteriaCOREproteome.csv` - metadata of sequences. It contains the GCF code of each sequence and its taxonomy obtained from the NCBI Taxonomy in October 2023.
+- `seqs/` - Proteomic core of the sample bacteria (amino acids)
 
-For more information:
-
-RAITTZ, Roberto Tadeu et al. Comparative genomics provides insights into the taxonomy of Azoarcus and reveals separate origins of nif genes in the proposed Azoarcus and Aromatoleum genera. Genes, v. 12, n. 1, p. 71, 2021.
 
