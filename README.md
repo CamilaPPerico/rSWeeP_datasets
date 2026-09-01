@@ -1,6 +1,8 @@
 # rSWeeP_datasets
 Additional datasets for the rSWeeP package:  https://doi.org/doi:10.18129/B9.bioc.rSWeeP
 
+See also: https://aibialab.github.io/rSWeeP
+
 ## Azoarcus dataset
 The `Azoarcus` folder refers to the complete proteomes (translated genome CDSs) of the bacteria from the study by Raittz and collaborators (2021):
 https://doi.org/10.3390/genes12010071
